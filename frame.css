@@ -1,0 +1,170 @@
+<style type="text/css">
+
+ .Frame-2 *{
+
+position: relative;
+width: 390px;
+height: 859px;
+
+background: rgba242, 216, 238, 0.933333;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* Care information for alt-leather products: - hand wash only (temperature 30°) - laying flat to dry - no ironing */
+
+position: absolute;
+left: 3.08%;
+right: 1.28%;
+top: 67.4%;
+bottom: 22.35%;
+
+font-family: 'Helvetica Compressed';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 22px;
+
+color: #000000;
+
+
+
+/* Care information for linen products: - hand wash or machine wash warm (temperature 40°) - iron medium heat (150°) */
+
+position: absolute;
+left: 3.08%;
+right: 1.28%;
+top: 47.85%;
+bottom: 44.47%;
+
+font-family: 'Helvetica Compressed';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 22px;
+
+color: #000000;
+
+
+
+/* Care information for satin products: - hand wash or machine wash (temperature 30°) - iron low heat (110°) */
+
+position: absolute;
+left: 3.08%;
+right: 1.28%;
+top: 27.59%;
+bottom: 63.68%;
+
+font-family: 'Helvetica Compressed';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 22px;
+
+color: #000000;
+
+
+
+/* logo */
+
+position: absolute;
+left: 21.03%;
+right: 21.03%;
+top: 3.26%;
+bottom: 76.25%;
+
+background: url(0d4f9027-575b-4b3f-a98a-0c1e77526fa9.png);
+
+
+/* Frame 1 */
+
+box-sizing: border-box;
+
+position: relative;
+width: 390px;
+height: 859px;
+
+background: rgba(242, 216, 238, 0.933333);
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* Догляд за виробами зі штучної шкіри: - тільки ручне прання за необхідності (температура 30°) - сушити в розкладеному вигляді  - не прасувати */
+
+position: absolute;
+left: 3.08%;
+right: 1.28%;
+top: 67.4%;
+bottom: 19.79%;
+
+font-family: 'Helvetica Compressed';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 22px;
+
+color: #000000;
+
+
+
+/* Догляд за виробами з льону: - прання вручну або в пральній машинці в делікатному режимі (температура 30°, 800 обертів віджим) - прасування на середніх температурах (150°) */
+
+position: absolute;
+left: 3.08%;
+right: 1.28%;
+top: 47.85%;
+bottom: 36.79%;
+
+font-family: 'Helvetica Compressed';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 22px;
+
+color: #000000;
+
+
+
+/* Press on the text to translate */
+
+position: absolute;
+left: 3.08%;
+right: 54.87%;
+top: 43.66%;
+bottom: 51.92%;
+
+font-family: 'Helvetica Compressed';
+font-style: normal;
+font-weight: 500;
+font-size: 15px;
+line-height: 19px;
+
+color: #0095B6;
+
+
+
+/* Догляд за виробами зі штучного шовку: - прання вручну або в пральній машинці в делікатному режимі (температура 30°, 800 обертів віджим) - прасування парою або звичайною праскою на низьких температурах (110°)   */
+
+position: absolute;
+left: 3.08%;
+right: 1.28%;
+top: 27.59%;
+bottom: 56.34%;
+
+font-family: 'Helvetica Compressed';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 22px;
+
+color: #000000;
+
+
+
+/* logo */
+
+position: absolute;
+left: 21.03%;
+right: 21.03%;
+top: 4.77%;
+bottom: 74.74%;
+
+background: url(0d4f9027-575b-4b3f-a98a-0c1e77526fa9.png);

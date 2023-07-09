@@ -1,0 +1,25 @@
+@import "normalize";
+
+body{
+	 font-family: "HelveticaBlack";
+    src: url("../fonts/Helvetica/HelveticaBlack/HelveticaBlack.eot");
+    src: url("../fonts/Helvetica/HelveticaBlack/HelveticaBlack.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/Helvetica/HelveticaBlack/HelveticaBlack.woff") format("woff"),
+    url("../fonts/Helvetica/HelveticaBlack/HelveticaBlack.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+    font-display: swap;
+}
+
+.container{
+	max-width: auto;
+	margin: 0 auto;
+}
+
+.header::after{
+	content:'';
+	display: block;
+	background: url('../img/logo.svg');
+	width: 206px;
+	height: 176px;
+}
